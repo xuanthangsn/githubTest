@@ -53,7 +53,7 @@ public class DataConnection {
         }
     }
 
-    /** insert data into the database. */
+    /** insert data into the the database. */
     public boolean insertData(String word, String definition) {
         boolean result = false;
         try{
