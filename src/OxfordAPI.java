@@ -33,7 +33,7 @@ public class OxfordAPI {
             JSONObject json = new JSONObject(stringBuilder.toString());
 
 
-            // get the first object element in result array.
+            // get the first object element in result array kkk.
             JSONObject filter1 = json.getJSONArray("results").getJSONObject(0);
             // get the first object element in lexicalEntries.
             JSONObject filter2 = filter1.getJSONArray("lexicalEntries").getJSONObject(0);
