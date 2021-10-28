@@ -43,7 +43,7 @@ class LinkedList {
     }
 }
 public class Main {
-    /** main */
+    /** main k*/
     public static void main(String[] args) {
         ArrayList<String> a = new ArrayList<>();
         ArrayList<String> b = new ArrayList<>();
